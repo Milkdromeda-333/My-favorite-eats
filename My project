@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Food I like and my favorite Restraunts to eat them at.</title>
+  <link href='style.css' rel='stylesheet'>
+</head>
+<body>
+  <div>
+  <table align="center" style="width:100%">
+  <caption>My favorite restauraunts</caption>
+  <!--row 1-->
+    <tr>
+    <td>Restaraunts</td>
+    <td>Item</td>
+    <td>Price</td>
+  </tr>
+  <tr>
+    <!--Row 2-->
+    <td>Five guys</td>
+    <td>Little Bacon Cheese Burger</td>
+    <td>8$</td>
+  </tr>
+  <tr>
+    <!--Row 3-->
+    <td>Mcdonalds</td>
+    <td>McChicken</td>
+    <td> $2</td>
+  </tr>
+  <tr>
+    <!--Row 4-->
+    <td>Sonics</td>
+    <td>Chili dog</td>
+    <td>$3</td>
+      </tr>
+      </table>
+  </div>
+  <img src="https://64.media.tumblr.com/f6902756a29fcd3f1329ad461fc8aa29/tumblr_n6b0x0QekG1qmf2zwo1_r1_500.png">
+</body>
+</html>
